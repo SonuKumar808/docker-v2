@@ -8,6 +8,6 @@ public class HelloWorld {
 
     @GetMapping("/message")
     public String getMessage() {
-        return "🚀 Boom! Jenkins CI/CD pipeline just dropped your code like a boss.";
+        return "🚀 Boom! Jenkins CI/CD pipeline has been successfully configured!!!";
     }
 }
